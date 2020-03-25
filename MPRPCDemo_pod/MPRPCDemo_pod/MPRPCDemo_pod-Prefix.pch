@@ -1,0 +1,14 @@
+//
+//  MPRPCDemo_pod-Prefix.pch
+//  MPRPCDemo_pod
+//
+//  Created by yemingyu on 2019/03/25.
+
+// MPAAS HEADERS BEGIN
+// This part is maintained by MPaaS plugin automatically. 
+#ifdef __OBJC__
+
+#import "MPRPCDemo_pod-mPaaS-Headers.h"
+
+#endif
+// MPAAS HEADERS END

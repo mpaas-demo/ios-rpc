@@ -1,0 +1,22 @@
+//
+//  MPRPCDemo_plugin-Prefix.pch
+//  MPRPCDemo_plugin
+//
+//  Created by 夜禹 on 2019/03/25.
+//  Copyright © 2019 Alibaba. All rights reserved.
+//
+
+#ifndef Mpaas_Prefix_Header_pch
+#define Mpaas_Prefix_Header_pch
+
+// This part is maintained by MPaaS plugin automatically.
+#ifdef __OBJC__
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import "MPRPCDemo_plugin-mPaaS-Headers.h"
+
+
+#endif
+
+#endif /* Mpaas_Prefix_Header_pch */
